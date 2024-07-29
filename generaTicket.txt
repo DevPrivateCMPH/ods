@@ -1,0 +1,11 @@
+package dev.main;
+
+public class car{
+    private int id;
+    private String name;
+
+    public car(){
+
+    }
+    
+}
